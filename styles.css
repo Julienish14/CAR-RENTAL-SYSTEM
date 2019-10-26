@@ -29,8 +29,13 @@ footer {
     padding-top: 2em;
     color: white;
   }
-  
-  #image{margin-right: 400px;}
+  /*IMAGE*/
+  #image{
+  	margin-right: 400px;
+    width: 700px;
+    height: 300px;
+
+  }
   /*SOCİAL İCONS*/
   
   /* footer social icons */
